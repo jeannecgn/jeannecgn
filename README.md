@@ -1,6 +1,6 @@
 Olá sou Jeanne Nascimento, Customer Experience Specialist
 
-- 🔭 I’m currently working on CX Specialist
+- 🔭 I’m currently working on CX Analyst
 - 🌱 I’m currently learning Front-end
 - 👯 I’m looking to collaborate on CX & IA 
 - 😄 Pronouns: She/ Her
