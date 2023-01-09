@@ -17,3 +17,4 @@ Olá sou Jeanne Nascimento, Customer Experience Specialist
   <img align="center" alt="Jcgn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   ![Snake animation](https://github.com/jeannecgn/jeannecgn/blob/output/github-contribution-grid-snake.svg)
+  
