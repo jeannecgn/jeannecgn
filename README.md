@@ -1,9 +1,9 @@
-Olá, sou Jeanne Nascimento, Customer Experience Specialist
+Olá sou Jeanne Nascimento, Customer Experience Specialist
 
-- 🔭 Atualmente, estou trabalhando como CX Analyst
-- 🌱 Estou aprendendo Front-end
-- 👯 Estou buscando colaborar em projetos de CX & IA 
-- 😄 Pronomes: Ela/Dela
+- 🔭 I’m currently working on CX Analyst
+- 🌱 I’m currently learning Front-end
+- 👯 I’m looking to collaborate on CX & IA 
+- 😄 Pronouns: She/ Her
 
 <div align="center">
   <a href="https://github.com/jeannecgn">
